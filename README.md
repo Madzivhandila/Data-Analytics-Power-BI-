@@ -49,6 +49,8 @@ I will use Power BI's data transformation capabilities to clean, transform, and 
 
 In this section,You wii find detailed information about how I developed the Power BI report:
 
+![f81bc28288a1ee2c8a52dc067467e1c9](https://github.com/Madzivhandila/CMPG-323-Project-5---30332338/assets/75025282/2aaa09a7-c7c3-43b3-819f-675460c97aff)
+
 1. **Data Import**: I  learned how to connect to my data sources and import the necessary data into Power BI.
 
 2. **Data Modeling**: I created data models and relationships to enable meaningful insights in my report.
