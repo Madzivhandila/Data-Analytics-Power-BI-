@@ -23,15 +23,15 @@ As a member of the COI development team, it is my responsibility to acquire the 
 
 ## Getting Started
 
-Before I begin developing the Power BI report, I must ensure that I have the necessary tools and knowledge in place. Here are the steps to get started:
+Before I begin developing the Power BI report, I ensured that I have the necessary tools and knowledge in place. Here are the steps to get started:
 
 ### Power BI Installation
 
-I will ensure that I have Power BI Desktop installed on my workstation. If not, I can download it from the [Power BI website](https://powerbi.microsoft.com/).
+I ensured that I have Power BI Desktop installed on my workstation. If not, I can download it from the [Power BI website](https://powerbi.microsoft.com/).
 
 ### Data Sources
 
-I will identify the data sources I need for the report. These may include databases, spreadsheets, APIs, or other data repositories. I will ensure I have the required access and permissions to retrieve this data.
+I did identify the data sources I need for the report. These may include databases, spreadsheets, APIs, or other data repositories. I will ensure I have the required access and permissions to retrieve this data.
 
 ### Training and Resources
 
@@ -47,19 +47,19 @@ I will use Power BI's data transformation capabilities to clean, transform, and 
 
 ## Power BI Report Development
 
-In this section, I'll find detailed information about developing the Power BI report:
+In this section,You wii find detailed information about how I developed the Power BI report:
 
-1. **Data Import**: I will learn how to connect to my data sources and import the necessary data into Power BI.
+1. **Data Import**: I  learned how to connect to my data sources and import the necessary data into Power BI.
 
-2. **Data Modeling**: I will create data models and relationships to enable meaningful insights in my report.
+2. **Data Modeling**: I created data models and relationships to enable meaningful insights in my report.
 
-3. **Visualizations**: I will build visualizations, charts, and graphs to represent the data effectively.
+3. **Visualizations**: I used visualizations, charts, and graphs to represent the data effectively.
 
-4. **Filters and Slicers**: I will implement filters and slicers to allow users to interact with the report and focus on specific data points.
+4. **Filters and Slicers**: I implemented filters and slicers to allow users to interact with the report and focus on specific data points.
 
-5. **Publishing and Sharing**: I will explore options for publishing the report to Power BI Service and sharing it with stakeholders.
+5. **Publishing and Sharing**: I explored options for publishing the report to Power BI Service and sharing it with stakeholders.
 
-6. **Security and Access Control**: I will understand how to manage access and permissions for the report to ensure data security.
+6. **Security and Access Control**: I did understand how to manage access and permissions for the report to ensure data security.
 
 ## Access and Permissions
 
