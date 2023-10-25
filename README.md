@@ -65,15 +65,9 @@ In this section, I'll find detailed information about developing the Power BI re
 
 Control over who can access and interact with the Power BI report is crucial. I will ensure I understand the process of managing access and permissions within Power BI. I will define roles and responsibilities for report access and implement security measures as needed.
 
-## Feedback and Support
-
-If I have questions, encounter challenges, or require support during the development of the Power BI report, I won't hesitate to reach out to the COI team. They are here to assist me and ensure the success of this project.
-
 ## Conclusion
 
 The Power BI report I am tasked with developing will play a vital role in enhancing the efficiency and transparency of our logistics management system. It will enable stakeholders to monitor orders and product sales effectively, providing valuable insights for decision-making. I will take full advantage of the resources available and my dedication to acquire the necessary skills and create an impactful report.
 
 Thank you for my contribution to EcoPower Logistics' ongoing success.
-
-For more information and resources, please visit our [EcoPower Logistics Website](https://www.ecopowerlogistics.com/).
 
