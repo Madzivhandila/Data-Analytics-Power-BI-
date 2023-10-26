@@ -89,9 +89,9 @@ Thank you for my contribution to EcoPower Logistics' ongoing success.
 3. **Power bi tutorial for beginners (2023) YouTube. Available at: https://www.youtube.com/watch?v=NNSHu0rkew8 (Accessed: 26 October 2023).**
 4. **Power bi dashboard from start to end (part 1)| HR dashboard | beginner to pro | power bi project (2022) YouTube. Available at: https://www.youtube.com/watch?v=-sOHVl_iCHA (Accessed: 26 October 2023).**
 5. **Building Tableau Dashboard from scratch (2022) YouTube. Available at: https://www.youtube.com/watch?v=5gKIjswsoH4 (Accessed: 26 October 2023).**
-6. **Tableau Dashboard from start to end (part 2)| HR dashboard | beginner to Pro | Tableau Project (2022) YouTube. Available at: https://www.youtube.com/watch?v=oTyCZVnNVZA (Accessed: 26 October 2023). **
-7. **Make a power bi dashboard in 15 minutes! (2023) YouTube. Available at: https://www.youtube.com/watch?v=NISsW-bVAwU (Accessed: 26 October 2023). **
-8. **5 design tricks that make every power BI report look great! (2022) YouTube. Available at: https://www.youtube.com/watch?v=v6fP8gyCLLc (Accessed: 26 October 2023). **
-9. **Sales dashboard in power bi | power bi dashboard (2021) YouTube. Available at: https://www.youtube.com/watch?v=CGgXHsD19Ek (Accessed: 26 October 2023). **
-10. **Power bi report design for starters tutorial (2021) YouTube. Available at: https://www.youtube.com/watch?v=tghzxr8AMBk (Accessed: 26 October 2023). **
+6. **Tableau Dashboard from start to end (part 2)| HR dashboard | beginner to Pro | Tableau Project (2022) YouTube. Available at: https://www.youtube.com/watch?v=oTyCZVnNVZA (Accessed: 26 October 2023).**
+7. **Make a power bi dashboard in 15 minutes! (2023) YouTube. Available at: https://www.youtube.com/watch?v=NISsW-bVAwU (Accessed: 26 October 2023).**
+8. **5 design tricks that make every power BI report look great! (2022) YouTube. Available at: https://www.youtube.com/watch?v=v6fP8gyCLLc (Accessed: 26 October 2023).**
+9. **Sales dashboard in power bi | power bi dashboard (2021) YouTube. Available at: https://www.youtube.com/watch?v=CGgXHsD19Ek (Accessed: 26 October 2023).**
+10. **Power bi report design for starters tutorial (2021) YouTube. Available at: https://www.youtube.com/watch?v=tghzxr8AMBk (Accessed: 26 October 2023).**
 
