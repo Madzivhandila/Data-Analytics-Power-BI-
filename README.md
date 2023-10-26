@@ -99,3 +99,6 @@ Thank you for my contribution to EcoPower Logistics' ongoing success.
 9. **Sales dashboard in power bi | power bi dashboard (2021) YouTube. Available at: https://www.youtube.com/watch?v=CGgXHsD19Ek (Accessed: 26 October 2023).**
 10. **Power bi report design for starters tutorial (2021) YouTube. Available at: https://www.youtube.com/watch?v=tghzxr8AMBk (Accessed: 26 October 2023).**
 
+*************************************************************************************8
+![NWU_Logo_p_w](https://github.com/Madzivhandila/CMPG-323-Project-5---30332338/assets/75025282/6e7376c3-40aa-4dbb-92d0-f7ac004de338)
+
