@@ -74,5 +74,15 @@ The Power BI report I am tasked with developing will play a vital role in enhanc
 
 Thank you for my contribution to EcoPower Logistics' ongoing success.
 
+## Microsoft Earned a badge
+
+1. **Build your first Power Automate for desktop flow**
+2. **Describe the capabilities of Microsoft Power BI**
+3. **Get data in Power BI**
+4. **Use visuals in Power BI**
+5. **Enhance Power BI report designs for the user experience**
+6. **Scope report design requirements**
+
+
 
 
