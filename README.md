@@ -85,5 +85,9 @@ Thank you for my contribution to EcoPower Logistics' ongoing success.
 
 ## Refarencing
 1. **12 October CMPG323 Weekly Virtual class data visualisation (2023) YouTube. Available at: https://www.youtube.com/watch?v=gv58fGGgRQs&amp;t=779s&amp;ab_channel=CMPG323-ITDevelopments (Accessed: 26 October 2023).**
-2. ****
+2. **12 October project 5 introduction (2023a) YouTube. Available at: https://www.youtube.com/watch?v=HrPipzMA5gk&amp;t=1417s (Accessed: 26 October 2023).**
+3. **Power bi tutorial for beginners (2023) YouTube. Available at: https://www.youtube.com/watch?v=NNSHu0rkew8 (Accessed: 26 October 2023).**
+4. **Power bi dashboard from start to end (part 1)| HR dashboard | beginner to pro | power bi project (2022) YouTube. Available at: https://www.youtube.com/watch?v=-sOHVl_iCHA (Accessed: 26 October 2023).**
+5. **Building Tableau Dashboard from scratch (2022) YouTube. Available at: https://www.youtube.com/watch?v=5gKIjswsoH4 (Accessed: 26 October 2023).**
+6. **Tableau Dashboard from start to end (part 2)| HR dashboard | beginner to Pro | Tableau Project (2022) YouTube. Available at: https://www.youtube.com/watch?v=oTyCZVnNVZA (Accessed: 26 October 2023). **
 
