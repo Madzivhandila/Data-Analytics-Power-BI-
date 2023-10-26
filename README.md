@@ -62,6 +62,8 @@ In this section,You wii find detailed information about how I developed the Powe
 5. **Publishing and Sharing**: I explored options for publishing the report to Power BI Service and sharing it with stakeholders.
 
 6. **Security and Access Control**: I did understand how to manage access and permissions for the report to ensure data security.
+7. 
+![Capturge](https://github.com/Madzivhandila/CMPG-323-Project-5---30332338/assets/75025282/102bae99-5e3d-400b-bd04-f376b0429974)
 
 ## Access and Permissions
 
