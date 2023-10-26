@@ -83,6 +83,7 @@ Thank you for my contribution to EcoPower Logistics' ongoing success.
 5. **Enhance Power BI report designs for the user experience**
 6. **Scope report design requirements**
 
-
-
+## Refarencing
+1. **12 October CMPG323 Weekly Virtual class data visualisation (2023) YouTube. Available at: https://www.youtube.com/watch?v=gv58fGGgRQs&amp;t=779s&amp;ab_channel=CMPG323-ITDevelopments (Accessed: 26 October 2023).**
+2. ****
 
