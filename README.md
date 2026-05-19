@@ -1,4 +1,4 @@
-# CMPG-323-Project-5---30332338
+# Power BI Project
 
 ![1_50JnSO9nCQOBq0WGBkqX6w](https://github.com/Madzivhandila/CMPG-323-Project-5---30332338/assets/75025282/a92f47a9-a2bd-40cb-ae57-42093c8c5d39)
 
